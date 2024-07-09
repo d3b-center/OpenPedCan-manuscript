@@ -6,12 +6,12 @@ keywords:
 - open science
 - multi-omics
 lang: en-US
-date-meta: '2024-07-06'
+date-meta: '2024-07-09'
 author-meta:
 - Zhuangzhuang Geng
 - Eric Wafula
-- Yuanchao Zhang
 - Ryan J. Corbett
+- Yuanchao Zhang
 - Run Jin
 - Krutika S. Gaonkar
 - Sangeeta Shukla
@@ -25,34 +25,34 @@ author-meta:
 - Antonia Chroni
 - Miguel A. Brown
 - Adam A. Kraya
-- Bo Zhang
-- Asif T Chinwalla
-- Mariarita Santi
 - Carl J. Koschmann
-- Nicholas Van Kuren
-- Zied Abdullaev
-- Alvin Farrel
-- Weiping Ma
-- Yuankun Zhu
-- Adam C. Resnick
-- Jennifer L. Mason
-- Noel Coleman
-- Ammar S. Naqvi
-- Xiaoyan Huang
-- Sarah Tasian
-- Joseph M. Dybas
-- Brian M. Ennis
-- Sharon J. Diskin
 - Kenneth Aldape
-- John M. Maris
-- Bailey K. Farrow
-- Chuwei Zhong
+- Xiaoyan Huang
 - Brian R. Rood
-- Matthew R. Lueder
-- Stephanie Stefankiewicz
-- Pei Wang
-- Saksham Phul
+- Jennifer L. Mason
 - Gerri R. Trooskin
+- Zied Abdullaev
+- Pei Wang
+- Yuankun Zhu
+- Bailey K. Farrow
+- Alvin Farrel
+- Joseph M. Dybas
+- Chuwei Zhong
+- Nicholas Van Kuren
+- Bo Zhang
+- Mariarita Santi
+- Saksham Phul
+- Asif T Chinwalla
+- Adam C. Resnick
+- Sharon J. Diskin
+- Sarah Tasian
+- Stephanie Stefankiewicz
+- John M. Maris
+- Brian M. Ennis
+- Matthew R. Lueder
+- Ammar S. Naqvi
+- Noel Coleman
+- Weiping Ma
 - Deanne Taylor
 - Jo Lynne Rokita
 header-includes: |
@@ -66,11 +66,11 @@ header-includes: |
   <meta name="citation_title" content="The Open Pediatric Cancer Project" />
   <meta property="og:title" content="The Open Pediatric Cancer Project" />
   <meta property="twitter:title" content="The Open Pediatric Cancer Project" />
-  <meta name="dc.date" content="2024-07-06" />
-  <meta name="citation_publication_date" content="2024-07-06" />
-  <meta property="article:published_time" content="2024-07-06" />
-  <meta name="dc.modified" content="2024-07-06T00:41:11+00:00" />
-  <meta property="article:modified_time" content="2024-07-06T00:41:11+00:00" />
+  <meta name="dc.date" content="2024-07-09" />
+  <meta name="citation_publication_date" content="2024-07-09" />
+  <meta property="article:published_time" content="2024-07-09" />
+  <meta name="dc.modified" content="2024-07-09T20:30:32+00:00" />
+  <meta property="article:modified_time" content="2024-07-09T20:30:32+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -84,12 +84,12 @@ header-includes: |
   <meta name="citation_author" content="Eric Wafula" />
   <meta name="citation_author_institution" content="Department of Biomedical and Health Informatics, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_orcid" content="0000-0001-8073-3797" />
-  <meta name="citation_author" content="Yuanchao Zhang" />
-  <meta name="citation_author_institution" content="Department of Biomedical and Health Informatics, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author" content="Ryan J. Corbett" />
   <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_orcid" content="0000-0002-3478-0784" />
+  <meta name="citation_author" content="Yuanchao Zhang" />
+  <meta name="citation_author_institution" content="Department of Biomedical and Health Informatics, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author" content="Run Jin" />
   <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
@@ -142,33 +142,29 @@ header-includes: |
   <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_orcid" content="0000-0002-8526-5694" />
-  <meta name="citation_author" content="Bo Zhang" />
-  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_orcid" content="0000-0002-0743-5379" />
-  <meta name="citation_author" content="Asif T Chinwalla" />
-  <meta name="citation_author_institution" content="Department of Biomedical and Health Informatics, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_orcid" content="0000-0001-7831-3996" />
-  <meta name="citation_author" content="Mariarita Santi" />
-  <meta name="citation_author_institution" content="Department of Pathology and Laboratory Medicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Department of Pathology and Laboratory Medicine, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_orcid" content="0000-0002-6728-3450" />
   <meta name="citation_author" content="Carl J. Koschmann" />
   <meta name="citation_author_institution" content="Department of Pediatrics, University of Michigan Health, Ann Arbor, MI, 48105, USA" />
   <meta name="citation_author_institution" content="Pediatric Hematology Oncology, Mott Children&#39;s Hospital, Ann Arbor, MI, 48109, USA" />
   <meta name="citation_author_orcid" content="0000-0002-0825-7615" />
-  <meta name="citation_author" content="Nicholas Van Kuren" />
+  <meta name="citation_author" content="Kenneth Aldape" />
+  <meta name="citation_author_institution" content="Laboratory of Pathology, National Cancer Institute, Bethesda, MD, 20892, USA" />
+  <meta name="citation_author" content="Xiaoyan Huang" />
   <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_orcid" content="0000-0002-7414-9516" />
+  <meta name="citation_author_orcid" content="0000-0001-7267-4512" />
+  <meta name="citation_author" content="Brian R. Rood" />
+  <meta name="citation_author_institution" content="Children&#39;s National Research Institute, Washington, D.C." />
+  <meta name="citation_author_institution" content="George Washington University School of Medicine and Health Sciences, Washington, D.C., 20052, USA" />
+  <meta name="citation_author" content="Jennifer L. Mason" />
+  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="twitter:creator" content="@jenn0307" />
+  <meta name="citation_author" content="Gerri R. Trooskin" />
+  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author" content="Zied Abdullaev" />
   <meta name="citation_author_institution" content="Laboratory of Pathology, National Cancer Institute, Bethesda, MD, 20892, USA" />
-  <meta name="citation_author" content="Alvin Farrel" />
-  <meta name="citation_author_institution" content="Department of Biomedical and Health Informatics, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Division of Oncology, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Center for Childhood Cancer Research, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_orcid" content="0000-0003-1087-9840" />
-  <meta name="citation_author" content="Weiping Ma" />
+  <meta name="citation_author" content="Pei Wang" />
   <meta name="citation_author_institution" content="Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA" />
   <meta name="citation_author_institution" content="Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA" />
   <meta name="citation_author" content="Yuankun Zhu" />
@@ -176,12 +172,71 @@ header-includes: |
   <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_orcid" content="0000-0002-2455-9525" />
   <meta name="twitter:creator" content="@zhuyuankun" />
+  <meta name="citation_author" content="Bailey K. Farrow" />
+  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_orcid" content="0000-0001-6727-6333" />
+  <meta name="citation_author" content="Alvin Farrel" />
+  <meta name="citation_author_institution" content="Department of Biomedical and Health Informatics, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Division of Oncology, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Center for Childhood Cancer Research, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_orcid" content="0000-0003-1087-9840" />
+  <meta name="citation_author" content="Joseph M. Dybas" />
+  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author" content="Chuwei Zhong" />
+  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_orcid" content="0000-0003-2406-2735" />
+  <meta name="citation_author" content="Nicholas Van Kuren" />
+  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_orcid" content="0000-0002-7414-9516" />
+  <meta name="citation_author" content="Bo Zhang" />
+  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_orcid" content="0000-0002-0743-5379" />
+  <meta name="citation_author" content="Mariarita Santi" />
+  <meta name="citation_author_institution" content="Department of Pathology and Laboratory Medicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Department of Pathology and Laboratory Medicine, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_orcid" content="0000-0002-6728-3450" />
+  <meta name="citation_author" content="Saksham Phul" />
+  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_orcid" content="0000-0002-2771-2572" />
+  <meta name="twitter:creator" content="@migbro" />
+  <meta name="citation_author" content="Asif T Chinwalla" />
+  <meta name="citation_author_institution" content="Department of Biomedical and Health Informatics, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_orcid" content="0000-0001-7831-3996" />
   <meta name="citation_author" content="Adam C. Resnick" />
   <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_orcid" content="0000-0003-0436-4189" />
   <meta name="twitter:creator" content="@adamcresnick" />
-  <meta name="citation_author" content="Jennifer L. Mason" />
+  <meta name="citation_author" content="Sharon J. Diskin" />
+  <meta name="citation_author_institution" content="Division of Oncology, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Department of Pediatrics, University of Pennsylvania, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_orcid" content="0000-0002-7200-8939" />
+  <meta name="twitter:creator" content="@sjdiskin" />
+  <meta name="citation_author" content="Sarah Tasian" />
+  <meta name="citation_author_institution" content="Division of Oncology, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Department of Pediatrics, University of Pennsylvania, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author" content="Stephanie Stefankiewicz" />
+  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author" content="John M. Maris" />
+  <meta name="citation_author_institution" content="Division of Oncology, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Department of Pediatrics, University of Pennsylvania, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author" content="Brian M. Ennis" />
+  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_orcid" content="0000-0002-2653-5009" />
+  <meta name="citation_author" content="Matthew R. Lueder" />
+  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_institution" content="Department of Pathology and Laboratory Medicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
+  <meta name="citation_author_orcid" content="0009-0002-7370-102X" />
+  <meta name="citation_author" content="Ammar S. Naqvi" />
   <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="twitter:creator" content="@jenn0307" />
@@ -189,64 +244,9 @@ header-includes: |
   <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_orcid" content="0000-0001-6454-1285" />
-  <meta name="citation_author" content="Ammar S. Naqvi" />
-  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="twitter:creator" content="@jenn0307" />
-  <meta name="citation_author" content="Xiaoyan Huang" />
-  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_orcid" content="0000-0001-7267-4512" />
-  <meta name="citation_author" content="Sarah Tasian" />
-  <meta name="citation_author_institution" content="Division of Oncology, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Department of Pediatrics, University of Pennsylvania, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author" content="Joseph M. Dybas" />
-  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author" content="Brian M. Ennis" />
-  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_orcid" content="0000-0002-2653-5009" />
-  <meta name="citation_author" content="Sharon J. Diskin" />
-  <meta name="citation_author_institution" content="Division of Oncology, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Department of Pediatrics, University of Pennsylvania, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_orcid" content="0000-0002-7200-8939" />
-  <meta name="twitter:creator" content="@sjdiskin" />
-  <meta name="citation_author" content="Kenneth Aldape" />
-  <meta name="citation_author_institution" content="Laboratory of Pathology, National Cancer Institute, Bethesda, MD, 20892, USA" />
-  <meta name="citation_author" content="John M. Maris" />
-  <meta name="citation_author_institution" content="Division of Oncology, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Department of Pediatrics, University of Pennsylvania, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author" content="Bailey K. Farrow" />
-  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_orcid" content="0000-0001-6727-6333" />
-  <meta name="citation_author" content="Chuwei Zhong" />
-  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_orcid" content="0000-0003-2406-2735" />
-  <meta name="citation_author" content="Brian R. Rood" />
-  <meta name="citation_author_institution" content="Children&#39;s National Research Institute, Washington, D.C." />
-  <meta name="citation_author_institution" content="George Washington University School of Medicine and Health Sciences, Washington, D.C., 20052, USA" />
-  <meta name="citation_author" content="Matthew R. Lueder" />
-  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Department of Pathology and Laboratory Medicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_orcid" content="0009-0002-7370-102X" />
-  <meta name="citation_author" content="Stephanie Stefankiewicz" />
-  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author" content="Pei Wang" />
+  <meta name="citation_author" content="Weiping Ma" />
   <meta name="citation_author_institution" content="Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA" />
   <meta name="citation_author_institution" content="Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA" />
-  <meta name="citation_author" content="Saksham Phul" />
-  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_orcid" content="0000-0002-2771-2572" />
-  <meta name="twitter:creator" content="@migbro" />
-  <meta name="citation_author" content="Gerri R. Trooskin" />
-  <meta name="citation_author_institution" content="Center for Data-Driven Discovery in Biomedicine, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
-  <meta name="citation_author_institution" content="Division of Neurosurgery, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author" content="Deanne Taylor" />
   <meta name="citation_author_institution" content="Department of Biomedical and Health Informatics, Children&#39;s Hospital of Philadelphia, Philadelphia, PA, 19104, USA" />
   <meta name="citation_author_institution" content="Department of Pediatrics, University of Pennsylvania Perelman Medical School, Philadelphia, PA, 19104, USA" />
@@ -263,9 +263,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://d3b-center.github.io/OpenPedCan-manuscript/" />
   <meta name="citation_pdf_url" content="https://d3b-center.github.io/OpenPedCan-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://d3b-center.github.io/OpenPedCan-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://d3b-center.github.io/OpenPedCan-manuscript/v/23f59f0f5de339cfe5f44bb27c83b6dae807fbc7/" />
-  <meta name="manubot_html_url_versioned" content="https://d3b-center.github.io/OpenPedCan-manuscript/v/23f59f0f5de339cfe5f44bb27c83b6dae807fbc7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://d3b-center.github.io/OpenPedCan-manuscript/v/23f59f0f5de339cfe5f44bb27c83b6dae807fbc7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://d3b-center.github.io/OpenPedCan-manuscript/v/d444a1fad5b0c9bb1a1429eec2a0e05c54a3dc80/" />
+  <meta name="manubot_html_url_versioned" content="https://d3b-center.github.io/OpenPedCan-manuscript/v/d444a1fad5b0c9bb1a1429eec2a0e05c54a3dc80/" />
+  <meta name="manubot_pdf_url_versioned" content="https://d3b-center.github.io/OpenPedCan-manuscript/v/d444a1fad5b0c9bb1a1429eec2a0e05c54a3dc80/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -287,10 +287,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://d3b-center.github.io/OpenPedCan-manuscript/v/23f59f0f5de339cfe5f44bb27c83b6dae807fbc7/))
+([permalink](https://d3b-center.github.io/OpenPedCan-manuscript/v/d444a1fad5b0c9bb1a1429eec2a0e05c54a3dc80/))
 was automatically generated
-from [d3b-center/OpenPedCan-manuscript@23f59f0](https://github.com/d3b-center/OpenPedCan-manuscript/tree/23f59f0f5de339cfe5f44bb27c83b6dae807fbc7)
-on 2024-07-06.
+from [d3b-center/OpenPedCan-manuscript@d444a1f](https://github.com/d3b-center/OpenPedCan-manuscript/tree/d444a1fad5b0c9bb1a1429eec2a0e05c54a3dc80)
+on 2024-07-09.
 </em></small>
 
 ## Authors
@@ -315,11 +315,6 @@ on 2024-07-06.
      Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   </small>
 
-+ **Yuanchao Zhang**<br><br>
-  <small>
-     Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-  </small>
-
 + **Ryan J. Corbett**<br>
     ![ORCID icon](images/orcid.png){.inline_icon}
     [0000-0002-3478-0784](https://orcid.org/0000-0002-3478-0784)
@@ -327,6 +322,11 @@ on 2024-07-06.
     [rjcorb](https://github.com/rjcorb)<br>
   <small>
      Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  </small>
+
++ **Yuanchao Zhang**<br><br>
+  <small>
+     Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   </small>
 
 + **Run Jin**<br>
@@ -442,31 +442,6 @@ on 2024-07-06.
      Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   </small>
 
-+ **Bo Zhang**<br>
-    ![ORCID icon](images/orcid.png){.inline_icon}
-    [0000-0002-0743-5379](https://orcid.org/0000-0002-0743-5379)
-    · ![GitHub icon](images/github.png){.inline_icon}
-    [zhangb1](https://github.com/zhangb1)<br>
-  <small>
-     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-  </small>
-
-+ **Asif T Chinwalla**<br>
-    ![ORCID icon](images/orcid.png){.inline_icon}
-    [0000-0001-7831-3996](https://orcid.org/0000-0001-7831-3996)
-    · ![GitHub icon](images/github.png){.inline_icon}
-    [chinwallaa](https://github.com/chinwallaa)<br>
-  <small>
-     Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-  </small>
-
-+ **Mariarita Santi**<br>
-    ![ORCID icon](images/orcid.png){.inline_icon}
-    [0000-0002-6728-3450](https://orcid.org/0000-0002-6728-3450)<br>
-  <small>
-     Department of Pathology and Laboratory Medicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Department of Pathology and Laboratory Medicine, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, 19104, USA
-  </small>
-
 + **Carl J. Koschmann**<br>
     ![ORCID icon](images/orcid.png){.inline_icon}
     [0000-0002-0825-7615](https://orcid.org/0000-0002-0825-7615)<br>
@@ -474,11 +449,31 @@ on 2024-07-06.
      Department of Pediatrics, University of Michigan Health, Ann Arbor, MI, 48105, USA; Pediatric Hematology Oncology, Mott Children's Hospital, Ann Arbor, MI, 48109, USA
   </small>
 
-+ **Nicholas Van Kuren**<br>
++ **Kenneth Aldape**<br><br>
+  <small>
+     Laboratory of Pathology, National Cancer Institute, Bethesda, MD, 20892, USA
+  </small>
+
++ **Xiaoyan Huang**<br>
     ![ORCID icon](images/orcid.png){.inline_icon}
-    [0000-0002-7414-9516](https://orcid.org/0000-0002-7414-9516)
+    [0000-0001-7267-4512](https://orcid.org/0000-0001-7267-4512)
     · ![GitHub icon](images/github.png){.inline_icon}
-    [nicholasvk](https://github.com/nicholasvk)<br>
+    [HuangXiaoyan0106](https://github.com/HuangXiaoyan0106)<br>
+  <small>
+     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  </small>
+
++ **Brian R. Rood**<br><br>
+  <small>
+     Children's National Research Institute, Washington, D.C.; George Washington University School of Medicine and Health Sciences, Washington, D.C., 20052, USA
+  </small>
+
++ **Jennifer L. Mason**<br><br>
+  <small>
+     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  </small>
+
++ **Gerri R. Trooskin**<br><br>
   <small>
      Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   </small>
@@ -488,17 +483,7 @@ on 2024-07-06.
      Laboratory of Pathology, National Cancer Institute, Bethesda, MD, 20892, USA
   </small>
 
-+ **Alvin Farrel**<br>
-    ![ORCID icon](images/orcid.png){.inline_icon}
-    [0000-0003-1087-9840](https://orcid.org/0000-0003-1087-9840)
-    · ![GitHub icon](images/github.png){.inline_icon}
-    [afarrel](https://github.com/afarrel)<br>
-  <small>
-     Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Oncology, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Center for Childhood Cancer Research, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-     · Funded by NCI/NIH Contract No. 75N91019D00024, Task Order No. 75N91020F00003
-  </small>
-
-+ **Weiping Ma**<br><br>
++ **Pei Wang**<br><br>
   <small>
      Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA; Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA
   </small>
@@ -512,87 +497,28 @@ on 2024-07-06.
      Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   </small>
 
-+ **Adam C. Resnick**<br>
-    ![ORCID icon](images/orcid.png){.inline_icon}
-    [0000-0003-0436-4189](https://orcid.org/0000-0003-0436-4189)
-    · ![GitHub icon](images/github.png){.inline_icon}
-    [adamcresnick](https://github.com/adamcresnick)<br>
-  <small>
-     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-     · Funded by Children's Brain Tumor Network; NIH 3P30 CA016520-44S5, U2C HL138346-03, U24 CA220457-03; NCI/NIH Contract No. 75N91019D00024, Task Order No. 75N91020F00003; Children’s Hospital of Philadelphia Division of Neurosurgery
-  </small>
-
-+ **Jennifer L. Mason**<br><br>
-  <small>
-     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-  </small>
-
-+ **Noel Coleman**<br>
-    ![ORCID icon](images/orcid.png){.inline_icon}
-    [0000-0001-6454-1285](https://orcid.org/0000-0001-6454-1285)<br>
-  <small>
-     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-  </small>
-
-+ **Ammar S. Naqvi**<br>
-    · ![GitHub icon](images/github.png){.inline_icon}
-    [naqvia](https://github.com/naqvia)<br>
-  <small>
-     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-  </small>
-
-+ **Xiaoyan Huang**<br>
-    ![ORCID icon](images/orcid.png){.inline_icon}
-    [0000-0001-7267-4512](https://orcid.org/0000-0001-7267-4512)
-    · ![GitHub icon](images/github.png){.inline_icon}
-    [HuangXiaoyan0106](https://github.com/HuangXiaoyan0106)<br>
-  <small>
-     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-  </small>
-
-+ **Sarah Tasian**<br><br>
-  <small>
-     Division of Oncology, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Department of Pediatrics, University of Pennsylvania, Philadelphia, PA, 19104, USA
-  </small>
-
-+ **Joseph M. Dybas**<br>
-    · ![GitHub icon](images/github.png){.inline_icon}
-    [JosephDybas](https://github.com/JosephDybas)<br>
-  <small>
-     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-  </small>
-
-+ **Brian M. Ennis**<br>
-    ![ORCID icon](images/orcid.png){.inline_icon}
-    [0000-0002-2653-5009](https://orcid.org/0000-0002-2653-5009)
-    · ![GitHub icon](images/github.png){.inline_icon}
-    [bmennis](https://github.com/bmennis)<br>
-  <small>
-     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-  </small>
-
-+ **Sharon J. Diskin**<br>
-    ![ORCID icon](images/orcid.png){.inline_icon}
-    [0000-0002-7200-8939](https://orcid.org/0000-0002-7200-8939)<br>
-  <small>
-     Division of Oncology, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Department of Pediatrics, University of Pennsylvania, Philadelphia, PA, 19104, USA
-  </small>
-
-+ **Kenneth Aldape**<br><br>
-  <small>
-     Laboratory of Pathology, National Cancer Institute, Bethesda, MD, 20892, USA
-  </small>
-
-+ **John M. Maris**<br><br>
-  <small>
-     Division of Oncology, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Department of Pediatrics, University of Pennsylvania, Philadelphia, PA, 19104, USA
-  </small>
-
 + **Bailey K. Farrow**<br>
     ![ORCID icon](images/orcid.png){.inline_icon}
     [0000-0001-6727-6333](https://orcid.org/0000-0001-6727-6333)
     · ![GitHub icon](images/github.png){.inline_icon}
     [baileyckelly](https://github.com/baileyckelly)<br>
+  <small>
+     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  </small>
+
++ **Alvin Farrel**<br>
+    ![ORCID icon](images/orcid.png){.inline_icon}
+    [0000-0003-1087-9840](https://orcid.org/0000-0003-1087-9840)
+    · ![GitHub icon](images/github.png){.inline_icon}
+    [afarrel](https://github.com/afarrel)<br>
+  <small>
+     Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Oncology, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Center for Childhood Cancer Research, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+     · Funded by NCI/NIH Contract No. 75N91019D00024, Task Order No. 75N91020F00003
+  </small>
+
++ **Joseph M. Dybas**<br>
+    · ![GitHub icon](images/github.png){.inline_icon}
+    [JosephDybas](https://github.com/JosephDybas)<br>
   <small>
      Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   </small>
@@ -606,28 +532,29 @@ on 2024-07-06.
      Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   </small>
 
-+ **Brian R. Rood**<br><br>
-  <small>
-     Children's National Research Institute, Washington, D.C.; George Washington University School of Medicine and Health Sciences, Washington, D.C., 20052, USA
-  </small>
-
-+ **Matthew R. Lueder**<br>
++ **Nicholas Van Kuren**<br>
     ![ORCID icon](images/orcid.png){.inline_icon}
-    [0009-0002-7370-102X](https://orcid.org/0009-0002-7370-102X)
+    [0000-0002-7414-9516](https://orcid.org/0000-0002-7414-9516)
     · ![GitHub icon](images/github.png){.inline_icon}
-    [luederm](https://github.com/luederm)<br>
-  <small>
-     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Department of Pathology and Laboratory Medicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
-  </small>
-
-+ **Stephanie Stefankiewicz**<br><br>
+    [nicholasvk](https://github.com/nicholasvk)<br>
   <small>
      Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   </small>
 
-+ **Pei Wang**<br><br>
++ **Bo Zhang**<br>
+    ![ORCID icon](images/orcid.png){.inline_icon}
+    [0000-0002-0743-5379](https://orcid.org/0000-0002-0743-5379)
+    · ![GitHub icon](images/github.png){.inline_icon}
+    [zhangb1](https://github.com/zhangb1)<br>
   <small>
-     Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA; Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA
+     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  </small>
+
++ **Mariarita Santi**<br>
+    ![ORCID icon](images/orcid.png){.inline_icon}
+    [0000-0002-6728-3450](https://orcid.org/0000-0002-6728-3450)<br>
+  <small>
+     Department of Pathology and Laboratory Medicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Department of Pathology and Laboratory Medicine, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, 19104, USA
   </small>
 
 + **Saksham Phul**<br>
@@ -639,9 +566,82 @@ on 2024-07-06.
      Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
   </small>
 
-+ **Gerri R. Trooskin**<br><br>
++ **Asif T Chinwalla**<br>
+    ![ORCID icon](images/orcid.png){.inline_icon}
+    [0000-0001-7831-3996](https://orcid.org/0000-0001-7831-3996)
+    · ![GitHub icon](images/github.png){.inline_icon}
+    [chinwallaa](https://github.com/chinwallaa)<br>
+  <small>
+     Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  </small>
+
++ **Adam C. Resnick**<br>
+    ![ORCID icon](images/orcid.png){.inline_icon}
+    [0000-0003-0436-4189](https://orcid.org/0000-0003-0436-4189)
+    · ![GitHub icon](images/github.png){.inline_icon}
+    [adamcresnick](https://github.com/adamcresnick)<br>
   <small>
      Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+     · Funded by Children's Brain Tumor Network; NIH 3P30 CA016520-44S5, U2C HL138346-03, U24 CA220457-03; NCI/NIH Contract No. 75N91019D00024, Task Order No. 75N91020F00003; Children’s Hospital of Philadelphia Division of Neurosurgery
+  </small>
+
++ **Sharon J. Diskin**<br>
+    ![ORCID icon](images/orcid.png){.inline_icon}
+    [0000-0002-7200-8939](https://orcid.org/0000-0002-7200-8939)<br>
+  <small>
+     Division of Oncology, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Department of Pediatrics, University of Pennsylvania, Philadelphia, PA, 19104, USA
+  </small>
+
++ **Sarah Tasian**<br><br>
+  <small>
+     Division of Oncology, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Department of Pediatrics, University of Pennsylvania, Philadelphia, PA, 19104, USA
+  </small>
+
++ **Stephanie Stefankiewicz**<br><br>
+  <small>
+     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  </small>
+
++ **John M. Maris**<br><br>
+  <small>
+     Division of Oncology, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Department of Pediatrics, University of Pennsylvania, Philadelphia, PA, 19104, USA
+  </small>
+
++ **Brian M. Ennis**<br>
+    ![ORCID icon](images/orcid.png){.inline_icon}
+    [0000-0002-2653-5009](https://orcid.org/0000-0002-2653-5009)
+    · ![GitHub icon](images/github.png){.inline_icon}
+    [bmennis](https://github.com/bmennis)<br>
+  <small>
+     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  </small>
+
++ **Matthew R. Lueder**<br>
+    ![ORCID icon](images/orcid.png){.inline_icon}
+    [0009-0002-7370-102X](https://orcid.org/0009-0002-7370-102X)
+    · ![GitHub icon](images/github.png){.inline_icon}
+    [luederm](https://github.com/luederm)<br>
+  <small>
+     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Department of Pathology and Laboratory Medicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  </small>
+
++ **Ammar S. Naqvi**<br>
+    · ![GitHub icon](images/github.png){.inline_icon}
+    [naqvia](https://github.com/naqvia)<br>
+  <small>
+     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  </small>
+
++ **Noel Coleman**<br>
+    ![ORCID icon](images/orcid.png){.inline_icon}
+    [0000-0001-6454-1285](https://orcid.org/0000-0001-6454-1285)<br>
+  <small>
+     Center for Data-Driven Discovery in Biomedicine, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA; Division of Neurosurgery, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA
+  </small>
+
++ **Weiping Ma**<br><br>
+  <small>
+     Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA; Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA
   </small>
 
 + **Deanne Taylor**<br>
@@ -689,7 +689,7 @@ Combined with RNA-Seq from the Genotype-Tissue Expression (GTEx) and The Cancer 
 We integrated summarized CPTAC whole cell proteomics and phospho-proteomics data, miRNA-Seq data, and have developed a methylation array harmonization workflow to include m-values, beta-vales, and copy number calls. 
 OpenPedCan contains reproducible, dockerized workflows in GitHub, CAVATICA, and Amazon Web Services (AWS) to deliver harmonized and processed data from over 60 scalable modules which can be leveraged both locally and on AWS. 
 The processed data are released in a versioned manner and accessible through CAVATICA or AWS S3 download (from GitHub), and queryable through PedcBioPortal and the NCI's pediatric Molecular Targets Platform. 
-Notably, we have expanded PBTA molecular subtyping to include methylation information to align with the WHO 2021 Central Nervous System Tumor classifications, allowing us to create research-grade integrated diagnoses for these tumors.
+Notably, we have expanded PBTA molecular subtyping to include methylation information to align with the WHO 2021 Central Nervous System Tumor classifications, allowing us to create research-grade integrated diagnoses for these tumors. 
 
 <!-- A short summary of the potential uses of these data and implications for the field. -->
 **Conclusions:** OpenPedCan data and its reproducible analysis module framework are openly available and can be utilized and/or adapted by researchers to accelerate discovery, validation, and clinical translation.
@@ -711,7 +711,7 @@ Pediatric cancer, open science, reproducibility, multi-omics
 
 The Open Pediatric Cancer (OpenPedCan) project at the Children’s Hospital of Philadelphia (CHOP) is an open analysis effort in which we harmonize pediatric cancer data from multiple sources, perform downstream cancer analyses on these data, and provide them on PedcBioPortal and v2.1 of NCI's [Pediatric Molecular Targets Platform (MTP)](https://moleculartargets.ccdi.cancer.gov/).
 We harmonized, aggregated, and analyzed data from multiple pediatric and adult data sources, building upon the work of the OpenPBTA (**Figure {@fig:Fig1}**).
-Biospecimen-level metadata and clinical data are contained in [**Supplemental Table 1**](https://github.com/d3b-center/OpenPedCan-analysis/blob/e289e49294f22401284153e191a85b4a6bfc887b/tables/results/SuppTable1-Histologies.xlsx).
+Biospecimen-level metadata and clinical data are contained in [**Supplemental Table 1**](https://github.com/d3b-center/OpenPedCan-analysis/blob/af9e2bb87e552159309c277ff8fef88c16fe8dcf/tables/results/SuppTable1-Histologies.xlsx).
 
 ![**OpenPedCan Data.** A, OpenPedCan contains multi-omic data from seven cohorts of pediatric tumors (A-B) with counts by tumor event, RNA-Seq from adult tumors from The Cancer Genome Atlas (TCGA) Program (C-D) and RNA-Seq from normal adult tissues from the Genotype-Tissue Expression (GTeX) project (E) with counts by specimen. (Abbreviations: TARGET = Therapeutically Applicable Research to Generate Effective Treatments , PPTC = Pediatric Preclinical Testing Consortium, PBTA = Pediatric Brain Tumor Atlas, Maris = Neuroblastoma cell lines from the Maris Laboratory at CHOP, GMKF = Gabriella Miller Kids First, DGD = Division of Genomic Diagnostics at CHOP, CPTAC = Clinical Proteomic Tumor Analysis Consortium)](https://raw.githubusercontent.com/d3b-center/OpenPedCan-analysis/e0e35bb13fd8542b807f7ea75ffd3ab857c522cb/figures/manuscript_OPC/figure1/Figure1.png?sanitize=true){#fig:Fig1 width="7in"}
 
@@ -909,7 +909,7 @@ As the minfi preprocessing workflow recommends, we dropped probes containing com
 
 Details of methylation array preprocessing are available in the [OpenPedCan methylation-preprocessing module](https://github.com/PediatricOpenTargets/OpenPedCan-analysis/tree/dev/analyses/methylation-preprocessing).
 
-**Methylation sample classification**
+**Methylation classification of brain tumor molecular subtypes**
 
 The Clinical Methylation Unit Laboratory of Pathology at the National Cancer Institute Center for Cancer Research ran the [DKFZ brain classifier version 12.6](https://www.molecularneuropathology.org/mnp/classifiers/11), a comprehensive DNA methylation-based classification of CNS tumors across all entities and age groups [@doi:10.1038/nature26000] and/or the Bethesda Brain tumor classifier v2.0 (NIH_v2) and the combo reporter pipeline v2.0 on docker container trust1/bethesda:latest.
 Unprocessed IDAT-files from the [Children's Brain Tumor Network (CBTN)](https://cbtn.org/) `Infinium Human Methylation EPIC (850k) BeadChip arrays` were used as input and the following information was compiled into the `histologies.tsv` file: `dkfz_v12_methylation_subclass` (predicted methylation subtype), `dkfz_v12_methylation_subclass_score` (classification score), `dkfz_v12_methylation_mgmt_status` (_MGMT_ methylation status), `dkfz_v12_methylation_mgmt_estimated` (estimated _MGMT_ methylation fraction), `NIH_v2_methylation_Superfamily`, `NIH_v2_methylation_Superfamily_mean_score`, `NIH_v2_methylation_Superfamily_Consistency_score`, `NIH_v2_methylation_Class`, `NIH_v2_methylation_Class_mean_score`, `NIH_v2_methylation_Class_consistency_score`, `NIH_v2_methylation_Superfamily_match`, and `NIH_v2_methylation_Class_match`. 
@@ -990,18 +990,18 @@ Batch effects were checked using the log2 relative protein or phosphopeptide abu
 Imputation was performed after batch effect correction for proteins or phosphopeptides with a missing rate < 50%. 
 For the phosphopeptide datasets, 440 markers associated with cold-regulated ischemia genes were filtered and removed.
 
-#### OpenPedCan Analysis modules
+### Creation of OpenPedCan Analysis modules
 
-##### Gene Set Variation Analysis (`gene-set-enrichment-analysis` analysis module)**
+#### Gene Set Variation Analysis (`gene-set-enrichment-analysis` analysis module)
 Please refer to the OpenPBTA manuscript for details [@doi:10.1016/j.xgen.2023.100340].
 
-##### Fusion prioritization (`fusion_filtering` analysis module)
+#### Fusion prioritization (`fusion_filtering` analysis module)
 The [`fusion_filtering`](https://github.com/PediatricOpenTargets/OpenPedCan-analysis/tree/dev/analyses/fusion_filtering) module filters artifacts and annotates fusion calls, with prioritization for oncogenic fusions, for the fusion calls from STAR-Fusion and Arriba.
 After artifact filtering, fusions were prioritized and annotated as "putative oncogenic fusions" when at least one gene was a known kinase, oncogene, tumor suppressor, curated transcription factor, on the COSMIC Cancer Gene Census List, or observed in TCGA.
 Fusions were retained in this module if they were called by both callers, recurrent or specific to a cancer group, or annotated as a putative oncogenic fusion.
 Please refer to the module linked above for more detailed documentation and scripts.
 
-##### Consensus CNV Calling (WGS samples only) (`copy_number_consensus_call*` analysis modules)
+#### Consensus CNV Calling (WGS samples only) (`copy_number_consensus_call*` analysis modules)
 We adopted the consensus CNV calling described in OpenPBTA manuscript [@doi:10.1016/j.xgen.2023.100340] with minor adjustments. 
 For each caller and sample with WGS performed, we called CNVs based on consensus among Control-FREEC [@doi:10/ckt4vz; @doi:10/c6bcps], CNVkit [@doi:10.1371/journal.pcbi.1004873], and GATK [@doi:10.1101/gr.107524.110]. 
 Sample and consensus caller files with more than 2,500 CNVs were removed to de-noise and increase data quality, based on cutoffs used in GISTIC [@https://doi.org/10.1186/gb-2011-12-4-r41]. 
@@ -1013,19 +1013,19 @@ We merged CNV regions within 10,000 bp of each other with the same direction of 
 Any CNVs that overlapped 50% or more with immunoglobulin, telomeric, centromeric, segment duplicated regions, or that were shorter than 3000 bp were filtered out.
 The CNVKit calls for WXS samples were appended to the consensus CNV file.
 
-##### Focal Copy Number Calling (`focal-cn-file-preparation` analysis module)
+#### Focal Copy Number Calling (`focal-cn-file-preparation` analysis module)
 Please refer to the OpenPBTA manuscript for details on assignment of copy number status values to CNV segments, cytobands, and genes [@doi:10.1016/j.xgen.2023.100340].
 We applied criteria to resolve instances of multiple conflicting status calls for the same gene and sample, which are described in detail in the [focal-cn-file-preparation](https://github.com/PediatricOpenTargets/OpenPedCan-analysis/tree/dev/analyses/focal-cn-file-preparation) module.
 Briefly, we prioritized 1) non-neutral status calls, 2) calls made from dominant segments with respect to gene overlap, and 3) amplification and deep deletion status calls over gain and loss calls, respectively, when selecting a dominant status call per gene and sample.
 These methods resolved >99% of duplicated gene-level status calls.    
 
-##### Mutational Signatures (`mutational-signatures` analysis module)
+#### Mutational Signatures (`mutational-signatures` analysis module)
 We obtained mutational signature weights (i.e., exposures) from consensus SNVs using the deconstructSigs R package [@doi:10.1186/s13059-016-0893-4]. 
 We estimated weights for single- and double-base substitution (SBS and DBS, respectively) signatures from the Catalogue of Somatic Mutations in Cancer (COSMIC) database versions 2 and 3.3, as well as SBS signatures from Alexandrov et al. 2013 [@doi:10.1038/nature12477].
 The following COSMIC SBS signatures were excluded from weight estimation in all tumors: 1) sequencing artifact signatures, 2) signatures associated with environmental exposure, and 3) signatures with an unknown etiology.
 Additionally, we excluded therapy-associated signatures from mutational signature weight estimation in tumors collected prior to treatment (i.e. "Initial CNS Tumor" or "Primary Tumor"). 
 
-##### Tumor Mutation Burden [TMB] (`tmb-calculation` analysis module)
+#### Tumor Mutation Burden [TMB] (`tmb-calculation` analysis module)
 Recent clinical studies have associated high TMB with improved patient response rates and survival benefit from immune checkpoint inhibitors [@doi:10.1002/gcc.22733].
 
 The [Tumor Mutation Burden (TMB) `tmb-calculation`](https://github.com/PediatricOpenTargets/OpenPedCan-analysis/tree/dev/analyses/tmb-calculation) module was adapted from the [`snv-callers` module](https://github.com/AlexsLemonade/OpenPBTA-analysis/tree/master/analyses/snv-callers) of the OpenPBTA project [@doi:10.1016/j.xgen.2023.100340].
@@ -1057,9 +1057,9 @@ For WXS samples, we intersected each WXS bed region file with the GENCODE v39 co
 Finally, we include an option (`nonsynfilter_focr`) to use specific nonsynonymous mutation variant classifications recommended from the [TMB Harmonization Project](https://friendsofcancerresearch.org/tmb/).
 
 
-##### Molecular Subtyping
+#### Molecular Subtyping
 Here, we build upon the molecular subtyping performed in OpenPBTA [@doi:10.1016/j.xgen.2023.100340] to align with WHO 2021 subtypes [@doi:10.1093/neuonc/noab106].
-Molecular subtypes were generated per tumor event and are listed for each biospecimen in [**Supplemental Table S1**](https://github.com/d3b-center/OpenPedCan-analysis/blob/e289e49294f22401284153e191a85b4a6bfc887b/tables/results/SuppTable1-Histologies.xlsx), with the number of tumors grouped by broad histology and molecular subtype in [**Supplemental Table S2**](https://github.com/d3b-center/OpenPedCan-analysis/blob/e289e49294f22401284153e191a85b4a6bfc887b/tables/results/SuppTable2-Molecular-Subtype-Table.xlsx).
+Molecular subtypes were generated per tumor event and are listed for each biospecimen in [**Supplemental Table S1**](https://github.com/d3b-center/OpenPedCan-analysis/blob/af9e2bb87e552159309c277ff8fef88c16fe8dcf/tables/results/SuppTable1-Histologies.xlsx), with the number of tumors grouped by broad histology and molecular subtype in [**Supplemental Table S2**](https://github.com/d3b-center/OpenPedCan-analysis/blob/af9e2bb87e552159309c277ff8fef88c16fe8dcf/tables/results/SuppTable2-Molecular-Subtype-Table.xlsx).
 
 **High-grade gliomas**
 
@@ -1129,15 +1129,42 @@ In addition to subtyping methods described in OpenPBTA [@doi:10.1016/j.xgen.2023
 6. LGG, BRAF- and MAPK-altered (methylation subclass "LGG, BRAF/MAPK")
 7. SEGA, to be classified (methylation subclass "SEGA, To be classified")
 
-**Medulloblastomas**
+**Medulloblastomas (MBs)**
+In addition to our previous work classifying MB tumors into the four major subtypes (WNT, SHH, Group 3, and Group 4) using the transcriptomic MedulloClassifier [@doi:10.1371/journal.pcbi.1008263], we integrated high-confidence methylation classification, demographic, and molecular criteria to molecularly subtype SHH tumors into one of four subgroups (alpha, beta, gamma, or delta) (**Figure {@fig:Fig3}**).
 
-Medulloblastomas (MB) are now subtyped using high-confidence methylation classifications in addition to MedulloClassifier [@doi:10.1371/journal.pcbi.1008263] as follows:
+![**Medulloblastoma Sample Clustering.** A, UMAP projection of 271 MB tumors and B, 63 SHH-activated MB tumors using methylation beta values of the 20,000 most variable probes from the Infinium MethylationEPIC array.  C, UMAP projection of MB, SHH activated samples indicating copy number status of SHH subgroup known somatic driver genes _CCND2_, _GLI2_, _MYCN_, and _PTEN_.](https://raw.githubusercontent.com/d3b-center/OpenPedCan-analysis/fc87ad125aaae6d43f17e2baf94551c9a0444bde/figures/manuscript_OPC/figure3/Figure3.png?sanitize=true){#fig:Fig3 width="7in"}
+
+We implemented molecular subtyping as follows:
 
 1. MB tumors with methylation classification that contains "MB_SHH" are subtyped as SHH-activated medulloblastoma (MB, SHH)
-2. MB tumors with "MB_G34_I", "MB_G34_II", "MB_G34_III", and "MB_G334_IV" methylation classifications are subtyped as medulloblastoma group 3 (MB, group 3)
-3. MB tumors with "MB_G34_V", "MB_G34_VI", "MB_G34_VII", and "MB_G334_VIII" methylation classifications are subtyped as medulloblastoma group 4 (MB, group 4)
+2. MB tumors with "MB_G34_I", "MB_G34_II", "MB_G34_III", and "MB_G334_IV" methylation classifications are subtyped as medulloblastoma group 3 (MB, Group3)
+3. MB tumors with "MB_G34_V", "MB_G34_VI", "MB_G34_VII", and "MB_G334_VIII" methylation classifications are subtyped as medulloblastoma group 4 (MB, Group4)
 4. MB tumors with "MB_WNT" methylation classification are subtyped as WNT-activated MB (MB, WNT)
 5. MB tumors with "MB_MYO" methylation classification are subtyped as medulloblastomas with myogenic differentiation (MB, MYO)
+
+We classified MB, SHH subtype tumors using the following criteria:
+
+1. _MB, SHH alpha_: sample has a high-confidence "MB_SHH_3" methylation classification, or patient had an age at diagnosis >= 2 years and harbored one of the following molecular alterations in tumor or germline:
+
+    - _MYCN_, _GLI2_, or _CCND2_ amplification or sample TPM z-score >= 2 in tumor. 
+    - A pathogenic or likely pathogenic germline variant in _ELP1_ or _TP53_.
+    - A _TP53_ hotspot mutation in tumor.
+    - Chromosome 9p gain or chromosome 17p loss in tumor.
+  
+2. _MB, SHH beta_: sample has a high-confidence "MB_SHH_1" methylation classification, or patient had an age at diagnosis < 5 years and harbored one of the following molecular alterations:
+
+    - A _KMT2D_ loss of function variant.
+    - _PTEN_ copy number loss or deep deletion, or sample TPM z-score < -2.
+    - Chromosome 2p or 2q gain. 
+  
+3. _MB, SHH gamma_: sample has a high-confidence "MB_SHH_2" methylation classification, or patient had an age at diagnosis < 5 years and tumor harbored a chromosome 2p arm gain. 
+
+4. _MB, SHH delta_: sample has a high-confidence "MB_SHH_4" methylation classification, or patient had an age at diagnosis >= 10 years and harbored one of the following molecular alterations in tumor:
+
+    - a _DDX3X_ or _SMO_ loss-of-function mutation.
+    - a hotspot _TERT_ or U1 snRNA gene mutation.
+    - Chromosome 14q arm loss.
+  
 
 **Pineoblastomas**
 
@@ -1156,10 +1183,10 @@ Updates were made to non-MB, non-ATRT embryonal tumor subtyping as follows:
 1. Embryonal tumors with multilayered rosettes and C19MC-altered (ETMR, C19MC-altered) were classified based on 1) high-confidence "ETMR_C19MC" methylation classification or 2) _TTYH1_ gene fusion and either chromosome 19 amplification or _LIN28A_ over-expression. 
 2. ETMR, not otherwise specified (NOS) were classified based on _LIN28A_ over-expression and no _TTYH1_ gene fusion. 
 
-##### TP53 Alteration Annotation (`tp53_nf1_score` analysis module)
+#### TP53 Alteration Annotation (`tp53_nf1_score` analysis module)
 Please refer to the OpenPBTA manuscript for details [@doi:10.1016/j.xgen.2023.100340].
 
-##### Selection of independent samples (`independent-samples` analysis module)
+#### Selection of independent samples (`independent-samples` analysis module)
 For analyses that require all input biospecimens to be independent, we use the OpenPedCan-analysis [independent-samples](https://github.com/PediatricOpenTargets/OpenPedCan-analysis/tree/d397339d567ddeff17e7a8cdca892f6a9dd2a0ba/analyses/independent-samples) module to select only one biospecimen from each input participant.
 For each input participant of an analysis, the independent biospecimen is selected based on the analysis-specific filters and preferences for the biospecimen metadata, such as experimental strategy, cancer group, and tumor descriptor.
 
@@ -1191,7 +1218,7 @@ License: CC-BY 4.0
 Primary analyses were performed using Gabriella Miller Kids First pipelines and are listed in the methods section.
 Analysis modules were developed within [https://github.com/AlexsLemonade/OpenPBTA-analysis](https://github.com/AlexsLemonade/OpenPBTA-analysis) [@doi:10.1016/j.xgen.2023.100340], modified based on OpenPBTA, or newly created and can be found within the [https://github.com/d3b-center/OpenPedCan-analysis](https://github.com/d3b-center/OpenPedCan-analysis) publicly available repository.
 
-Software versions are documented in [**Supplemental Table 3**](https://github.com/d3b-center/OpenPedCan-analysis/blob/e289e49294f22401284153e191a85b4a6bfc887b/tables/results/SuppTable3-List_Package_Table.xlsx).
+Software versions are documented in [**Supplemental Table 3**](https://github.com/d3b-center/OpenPedCan-analysis/blob/fc87ad125aaae6d43f17e2baf94551c9a0444bde/tables/results/SuppTable3-List_Package_Table.xlsx).
 
 
 
@@ -1224,6 +1251,8 @@ Cohort, cancer group, and individual data are visible within [PedcBioPortal](htt
 
 ## Acknowledgments
 We are incredibly grateful to each patient and family for donating tissue and associated metadata and clinical data to their respective consortia.
+This project has been funded in whole or in part with Federal funds from the National Cancer Institute, National Institutes of Health, under Contract No. 75N91019D00024, Task Order No. 75N91020F00003 (DMT, JLR, SJD, JMM, ST, AF, ACR). 
+The content of this publication does not necessarily reflect the views or policies of the Department of Health and Human Services, nor does mention of trade names, commercial products or organizations imply endorsement by the U.S. Government.
 We thank Rocky Breslow for GitHub actions contributions and Rust Turakulov for contributing to methylation data analysis.
 
 
@@ -1233,8 +1262,8 @@ We thank Rocky Breslow for GitHub actions contributions and Rust Turakulov for c
 |---|---|
 |Zhuangzhuang Geng|Data curation, Formal analysis, Investigation, Methodology, Software, Writing – Original draft|
 |Eric Wafula|Formal analysis, Software, Investigation, Writing – Original draft|
-|Yuanchao Zhang|Software, Formal analysis, Methodology, Writing – Original draft|
 |Ryan J. Corbett|Formal analysis, Writing - original draft|
+|Yuanchao Zhang|Software, Formal analysis, Methodology, Writing – Original draft|
 |Run Jin|Formal analysis|
 |Krutika S. Gaonkar|Data curation, Formal analysis, Investigation|
 |Sangeeta Shukla|Formal analysis, Investigation, Methodology, Writing – Original draft, Writing - Review and editing|
@@ -1248,34 +1277,34 @@ We thank Rocky Breslow for GitHub actions contributions and Rust Turakulov for c
 |Antonia Chroni|Validation|
 |Miguel A. Brown|Data curation, Methodology, Formal analysis, Investigation, Software, Supervision, Writing – Original draft|
 |Adam A. Kraya|Methodology|
-|Bo Zhang|Data curation, Formal analysis|
-|Asif T Chinwalla|Project administration, Supervision, Methodology, Investigation, Validation|
-|Mariarita Santi|Investigation, Validation|
 |Carl J. Koschmann|Data Curation|
-|Nicholas Van Kuren|Data curation, Software|
-|Zied Abdullaev|Formal Analysis, Investigation, Data curation|
-|Alvin Farrel|Supervision, Investigation, Methodology, Funding acquisition|
-|Weiping Ma|Formal Analysis, Investigation, Data curation|
-|Yuankun Zhu|Supervision|
-|Adam C. Resnick|Funding acquisition, Resources|
-|Jennifer L. Mason|Supervision|
-|Noel Coleman|Data curation|
-|Ammar S. Naqvi|Methodology, Writing – Original draft|
-|Xiaoyan Huang|Formal analysis, Software|
-|Sarah Tasian|Funding acquisition|
-|Joseph M. Dybas|Writing – Original draft, Methodology|
-|Brian M. Ennis|Formal analysis|
-|Sharon J. Diskin|Funding acquisition|
 |Kenneth Aldape|Formal Analysis, Investigation, Data curation|
-|John M. Maris|Funding acquisition|
-|Bailey K. Farrow|Data curation, Software, Project administration, Supervision|
-|Chuwei Zhong|Formal analysis|
+|Xiaoyan Huang|Formal analysis, Software|
 |Brian R. Rood|Data Curation|
-|Matthew R. Lueder|Data curation|
-|Stephanie Stefankiewicz|Project administration|
-|Pei Wang|Formal Analysis, Supervision|
-|Saksham Phul|Formal analysis|
+|Jennifer L. Mason|Supervision|
 |Gerri R. Trooskin|Funding acquisition|
+|Zied Abdullaev|Formal Analysis, Investigation, Data curation|
+|Pei Wang|Formal Analysis, Supervision|
+|Yuankun Zhu|Supervision|
+|Bailey K. Farrow|Data curation, Software, Project administration, Supervision|
+|Alvin Farrel|Supervision, Investigation, Methodology, Funding acquisition|
+|Joseph M. Dybas|Writing – Original draft, Methodology|
+|Chuwei Zhong|Formal analysis|
+|Nicholas Van Kuren|Data curation, Software|
+|Bo Zhang|Data curation, Formal analysis|
+|Mariarita Santi|Investigation, Validation|
+|Saksham Phul|Formal analysis|
+|Asif T Chinwalla|Project administration, Supervision, Methodology, Investigation, Validation|
+|Adam C. Resnick|Funding acquisition, Resources|
+|Sharon J. Diskin|Funding acquisition|
+|Sarah Tasian|Funding acquisition|
+|Stephanie Stefankiewicz|Project administration|
+|John M. Maris|Funding acquisition|
+|Brian M. Ennis|Formal analysis|
+|Matthew R. Lueder|Data curation|
+|Ammar S. Naqvi|Methodology, Writing – Original draft|
+|Noel Coleman|Data curation|
+|Weiping Ma|Formal Analysis, Investigation, Data curation|
 |Deanne Taylor|Conceptualization, Data curation, Funding acquisition, Investigation, Methodology, Supervision, Project administration|
 |Jo Lynne Rokita|Conceptualization, Data curation, Formal analysis, Funding acquisition, Project administration, Investigation, Methodology, Software, Supervision, Writing – Original draft, Writing - Review and editing|
 
@@ -1298,7 +1327,8 @@ The authors declare no conflicts.
 README, metadata, and clinical data for each patient and biospecimen in OpenPedCan.
 
 **Supplemental Table 2**
-Number of tumors and corresponding patients from which WHO 2021 molecular subtypes were generated through OpenPedCan analysis modules.
+Number of tumors and corresponding patients from which WHO 2021 molecular subtypes were generated through OpenPedCan analysis modules are listed in Sheet 1.
+Molecular subgroups (alpha, beta, gamma, or delta) for medulloblastoma SHH tumors are listed in Sheet 2. 
 
 **Supplemental Table 3**
 Listed are the software versions for all packages and workflows used in this manuscript.
